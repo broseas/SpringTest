@@ -1,0 +1,6 @@
+package com.brose.webstore.repository;
+
+public class ProductRepository {
+
+	abstract List <Product> getAllProducts();
+}

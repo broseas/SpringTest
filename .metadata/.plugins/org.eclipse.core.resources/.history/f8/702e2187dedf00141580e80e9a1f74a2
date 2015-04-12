@@ -1,0 +1,5 @@
+package com.brose.webstore.repository.impl;
+
+public class InMemoryProductRepository {
+
+}
