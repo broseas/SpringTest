@@ -1,0 +1,5 @@
+package com.brose.webstore.domain.repository;
+
+public interface CustomerRepository {
+
+}

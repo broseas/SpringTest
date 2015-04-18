@@ -1,0 +1,5 @@
+package com.brose.webstore.domain;
+
+public class Customer {
+
+}
